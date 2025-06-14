@@ -1,0 +1,20 @@
+[
+  {
+    "image_path": "images/img1.jpg",
+    "en_caption": "A woman in an orange dress smiles at her phone while standing next to a bicycle in a tree-lined urban park",
+    "es_caption": "Una mujer con un vestido naranja sonríe a su teléfono mientras está de pie junto a una bicicleta en un parque urbano arbolado",
+    "similarity": 0.9348751902580261
+  },
+  {
+    "image_path": "images/img2.jpg",
+    "en_caption": "Three diverse individuals pose confidently in front of a rainbow pride flag, celebrating inclusion and identity",
+    "es_caption": "Tres individuos diversos posan con confianza frente a una bandera de orgullo del arco iris, celebrando la inclusión y la identidad",
+    "similarity": 0.8831397891044617
+  },
+  {
+    "image_path": "images/img3.jpg",
+    "en_caption": "A beautiful sunset over the ocean",
+    "es_caption": "Una hermosa puesta de sol sobre el océano",
+    "similarity": 0.9372252821922302
+  }
+]
